@@ -1,4 +1,4 @@
 import TestingWhateva from '@judeatmerit/testing-whateva';
 
-console.log('DONE');
+console.log('DONE', TestingWhateva.getStuff());
 

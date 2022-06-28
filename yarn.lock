@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@judeatmerit/testing-whateva@^1.0.0":
-  version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@judeatmerit/testing-whateva/1.0.0/507baf525d67c43fa5c9da190e62b5d09ab98ceae42e6da806eb48e34cfe450c#15f0eafea09f7ee9991dbaa0d1b43a7e5c0ce9e0"
-  integrity sha512-tK0Q3bQJNQWvOUsvDEBoVHO4mFD1sTKSjmExmimExhdSqxEfNHqewsVLDvYtEXMpMFMN1J8AW6Q3hashM53q5g==
+"@judeatmerit/testing-whateva@^1.0.1":
+  version "1.0.1"
+  resolved "https://npm.pkg.github.com/download/@judeatmerit/testing-whateva/1.0.1/a28f30dbd202c3c0b0b3bd4dd08701a84bda36b0fb010fa1dab326336fdb1279#1b6e524df269ae8138c87604ece924e7306d3eda"
+  integrity sha512-kkVH0rRywYPjBuPHLL6ujtlRqMZcUgtCn5TayGgamBC4lU+zJIz8biiFwroiawryelxRFGIk/7LSeEv8HenftA==
